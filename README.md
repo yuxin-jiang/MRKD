@@ -1,4 +1,4 @@
-# MRKD
+# MRKD - A Masked Reverse Knowledge Distillation Method Incorporating Global and Local Information for Image Anomaly Detection
 This is an official implementation of “A Masked Reverse Knowledge Distillation Method Incorporating Global and Local Information for Image Anomaly Detection” (MRKD) with PyTorch, accepted by knowledge-based systems.<br />
 
 [Paper link](https://www.sciencedirect.com/science/article/pii/S0950705123007323).<br />
