@@ -8,13 +8,35 @@ This is an official implementation of “A Masked Reverse Knowledge Distillation
 **Keywords**: Image anomaly detection, Knowledge distillation, Deep learning
 
 # Implementation
-1.Environment.<br />
+1. Environment.<br />
+>pytorch == 1.12.0
 
-2.Dataset.<br />
+>torchvision == 0.13.0
+
+>numpy == 1.21.6
+
+>scipy == 1.7.3
+
+>matplotlib == 3.5.2
+
+>tqdm
+
+2. Dataset.<br />
 >Download the MVTec dataset [here](https://www.mvtec.com/company/research/datasets/mvtec-ad).<br />
 
-3.Execute the following command to see the training and evaluation results..<br />
+3. Execute the following command to see the training and evaluation results..<br />
 ```
 python main.py
-
+```
+# Reference
+```
+@article{jiang2023masked,
+  title={A masked reverse knowledge distillation method incorporating global and local information for image anomaly detection},
+  author={Jiang, Yuxin and Cao, Yunkang and Shen, Weiming},
+  journal={Knowledge-Based Systems},
+  volume={280},
+  pages={110982},
+  year={2023},
+  publisher={Elsevier}
+}
 ```
