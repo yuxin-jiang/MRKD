@@ -24,7 +24,7 @@ This is an official implementation of “A Masked Reverse Knowledge Distillation
 2. Dataset.<br />
 >Download the MVTec dataset [here](https://www.mvtec.com/company/research/datasets/mvtec-ad).<br />
 
-3. Execute the following command to see the training and evaluation results..<br />
+3. Execute the following command to see the training and evaluation results.<br />
 ```
 python main.py
 ```
