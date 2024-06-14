@@ -4,11 +4,9 @@ from PIL import Image
 from tqdm import tqdm
 import urllib.request
 import numpy as np
-
 import torch
 from torch.utils.data import Dataset
 from torchvision import transforms as T
-
 from self_sup_tasks import patch_ex
 
 URL = 'ftp://guest:GU.205dldo@ftp.softronics.ch/mvtec_anomaly_detection/mvtec_anomaly_detection.tar.xz'
