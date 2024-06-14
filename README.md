@@ -29,12 +29,11 @@ This is an official implementation of “A Masked Reverse Knowledge Distillation
 3. Execute the following command to see the training and evaluation results.<br />
 ```
 python main.py
-
+```
 # Visualization
 
 ![](https://github.com/yuxin-jiang/MRKD/blob/main/figures/result.png)
 
-```
 # Reference
 ```
 @article{jiang2023masked,
