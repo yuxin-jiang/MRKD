@@ -43,10 +43,10 @@ python main.py
 
 ## 📊 Results
 
-Anomaly detection results:
+- **Anomaly detection results**:
 ![Results](https://github.com/yuxin-jiang/MRKD/blob/main/figures/table1.png)
 
-Anomaly localization results:
+- **Anomaly localization results**:
 ![Results](https://github.com/yuxin-jiang/MRKD/blob/main/figures/table2.png)
 
 ## 🖼️ Visualization
