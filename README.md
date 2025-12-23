@@ -13,7 +13,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;<sup>1</sup>Huazhong University of Science and Technology
 </div>
   
-[[GitHub Repository]](https://github.com/yuxin-jiang/MRKD) [[Paper]](https://www.sciencedirect.com/science/article/pii/S0950705123007323)
+[[GitHub Repository]](https://github.com/yuxin-jiang/MRKD) [[Paper]](https://arxiv.org/pdf/2512.15326)
   
 ![Framework](https://github.com/yuxin-jiang/MRKD/blob/main/figures/figure1.png)
 
